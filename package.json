@@ -1,0 +1,8 @@
+{
+  "name": "portal-rrpp",
+  "version": "1.0.0",
+  "description": "Portal de RRPP: listas, ingreso en puerta y tablero unificado",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.5" }
+}
